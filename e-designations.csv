@@ -1,0 +1,20 @@
+ENumber,E Effective Date,BOROCODE,TAXBLOCK,TAXLOT,HazMat Code,Air Code,Noise Code,HazMat Date,Air Date,Noise Date,CEQR_NUM,ULURP_NUM
+E-1,04/28/1983,3,319,1,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,10,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,11,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,12,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,13,false,false,true,82-252K,830178 ZMK,
+E-1,04/28/1983,3,319,14,false,false,true,82-252K,830178 ZMK,
+E-1,04/28/1983,3,319,15,false,false,true,82-252K,830178 ZMK,
+E-1,04/28/1983,3,319,16,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,NULL,319,17,false,false,true,82-252K,830178 ZMK,
+E-1,04/28/1983,3,319,18,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,19,false,false,true,82-252K,830178 ZMK,
+E-1,04/28/1983,NULL,319,2,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,20,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,22,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,NULL,false,false,true,82-252K,830178 ZMK,
+E-1,04/28/1983,3,319,24,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,NULL,319,25,false,false,true,82-252K,830178 ZMK
+E-1,04/28/1983,3,319,26,false,false,true,82-252K,UNDEFINED
+E-1,04/28/1983,3,NULL,27,false,false,true,NULL,830178 ZMK

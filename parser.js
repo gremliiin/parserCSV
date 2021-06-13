@@ -1,7 +1,5 @@
 const fs = require("fs");
-let txt = fs.readFileSync("flavors.csv", "utf8");
-
-
+let txt = fs.readFileSync("e-designations.csv", "utf8");
 
 const cvsParser = (flag = '', sep = ';', data = '') => {
     let strings = [];
@@ -47,9 +45,6 @@ const cvsParser = (flag = '', sep = ';', data = '') => {
             break;
         }
     }
-
-    
-    
     
     row.forEach(el => {
         let obj = {};
@@ -77,6 +72,10 @@ const cvsParser = (flag = '', sep = ';', data = '') => {
         for(let i = 0; i < el.length; i++) {
             if(String(el[i]) === 'empty'){
                 el[i] = null;
+            } else if(String(el[i]).toLowerCase() === 'null'){
+                el[i] = null;
+            } else if(String(el[i]).toLowerCase() === 'undefined') {
+                el[i] = undefined;
             }
         }
 
